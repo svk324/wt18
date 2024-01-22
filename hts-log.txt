@@ -1,0 +1,23 @@
+HTTrack3.49-2 launched on Sat, 30 Dec 2023 11:01:21 at https://avitex.vn/html/bytewave/ +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(httrack -O /storage/emulated/0/HTTrack/Websites/bytewave -A25000k%Px%q0u1s2%s%u%fDaK0H0N0p3 https://avitex.vn/html/bytewave/ +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2017], %s -->" -%l LANGUAGE_ISO,* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:01:24	Warning: 	Moved Permanently for https://avitex.vn/robots.txt
+11:01:24	Warning: 	File has moved from https://avitex.vn/robots.txt to https://avitex.vn/robots.txt/
+11:13:37	Warning: 	Retry after error -4 (Incorrect length (47811 Bytes, 159872 expected)) at link https://avitex.vn/html/bytewave/assets/images/blog/item1.png (from https://avitex.vn/html/bytewave/)
+11:13:37	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://avitex.vn/html/bytewave/assets/images/blog/item2.png (from https://avitex.vn/html/bytewave/)
+11:13:37	Warning: 	Retry after error -4 (Incorrect length (2271810 Bytes, 2509414 expected)) at link https://avitex.vn/html/bytewave/assets/images/component/industry5.png (from https://avitex.vn/html/bytewave/assets/css/style.css)
+11:13:38	Warning: 	Retry after error -4 (Incorrect length (695810 Bytes, 2716361 expected)) at link https://avitex.vn/html/bytewave/assets/images/component/industry5-below.png (from https://avitex.vn/html/bytewave/assets/css/style.css)
+11:13:41	Warning: 	Retry after error -4 (Incorrect length (39810 Bytes, 3050999 expected)) at link https://avitex.vn/html/bytewave/assets/images/slider/slider2-1.png (from https://avitex.vn/html/bytewave/home2.html)
+11:13:42	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://avitex.vn/html/bytewave/assets/images/slider/slider2-3.png (from https://avitex.vn/html/bytewave/home2.html)
+11:13:45	Warning: 	Retry after error -4 (Incorrect length (1583810 Bytes, 1846105 expected)) at link https://avitex.vn/html/bytewave/assets/images/slider/slider3-3.png (from https://avitex.vn/html/bytewave/home3.html)
+11:13:53	Warning: 	Retry after error -4 (Incorrect length (359811 Bytes, 638575 expected)) at link https://avitex.vn/html/bytewave/assets/images/component/about3.png (from https://avitex.vn/html/bytewave/home3.html)
+11:14:00	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://avitex.vn/html/bytewave/assets/images/industry/1.png (from https://avitex.vn/html/bytewave/home3.html)
+11:14:18	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://avitex.vn/html/bytewave/assets/images/industry/2.png (from https://avitex.vn/html/bytewave/home3.html)
+11:15:04	Warning: 	Retry after error -4 (Incorrect length (479810 Bytes, 2668884 expected)) at link https://avitex.vn/html/bytewave/assets/images/slider/slider5-2.png (from https://avitex.vn/html/bytewave/home5.html)
+11:15:13	Warning: 	Retry after error -4 (Incorrect length (55810 Bytes, 2070400 expected)) at link https://avitex.vn/html/bytewave/assets/images/slider/slider5-3.png (from https://avitex.vn/html/bytewave/home5.html)
+11:15:23	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://avitex.vn/html/bytewave/assets/images/component/benefit5.png (from https://avitex.vn/html/bytewave/home5.html)
